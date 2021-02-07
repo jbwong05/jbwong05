@@ -1,5 +1,5 @@
 ### About me
-Third year computer science student at University of California, San Diego
+Third year Computer Science student at University of California, San Diego interested in software engineering and backend application development 
 
 ### Projects
 * [YIP](https://gitlab.com/cse110-sp20/yip)
