@@ -1,4 +1,13 @@
-### Hi there 👋
+### About me
+Third year computer science student at University of California, San Diego
+
+### Projects
+* [YIP](https://gitlab.com/cse110-sp20/yip)
+* [FlyerScanner](https://github.com/hexalellogram/FlyerScanner)
+* [Albert Extra KDE Settings](https://github.com/jbwong05/Albert-Extra-KDE-Settings)
+* [Albert X Window Switcher](https://github.com/jbwong05/Albert-X-Window-Switcher)
+* [Albert KDE Browser Integration](https://github.com/jbwong05/Albert-KDE-Browser-Integration)
+* [watchping](https://github.com/jbwong05/watchping)
 
 <!--
 **jbwong05/jbwong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
