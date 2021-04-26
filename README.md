@@ -8,6 +8,7 @@ Third year Computer Science student at University of California, San Diego inter
 * [Albert X Window Switcher](https://github.com/jbwong05/Albert-X-Window-Switcher)
 * [Albert KDE Browser Integration](https://github.com/jbwong05/Albert-KDE-Browser-Integration)
 * [watchping](https://github.com/jbwong05/watchping)
+* [yestranslate](https://github.com/jbwong05/yestranslate)
 
 <a href="https://github.com/jbwong05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbwong05&show_icons=true&theme=tokyonight&count_private=true" alt="jbwong05's github stats" />
