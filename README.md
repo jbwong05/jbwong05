@@ -4,9 +4,10 @@ Third year Computer Science student at University of California, San Diego inter
 ### Projects
 * [YIP](https://gitlab.com/cse110-sp20/yip)
 * [FlyerScanner](https://github.com/hexalellogram/FlyerScanner)
-* [Albert Extra KDE Settings](https://github.com/jbwong05/Albert-Extra-KDE-Settings)
-* [Albert X Window Switcher](https://github.com/jbwong05/Albert-X-Window-Switcher)
-* [Albert KDE Browser Integration](https://github.com/jbwong05/Albert-KDE-Browser-Integration)
+* Albert Launcher Plugins
+  * [Albert Extra KDE Settings](https://github.com/jbwong05/Albert-Extra-KDE-Settings)
+  * [Albert X Window Switcher](https://github.com/jbwong05/Albert-X-Window-Switcher)
+  * [Albert KDE Browser Integration](https://github.com/jbwong05/Albert-KDE-Browser-Integration)
 * [watchping](https://github.com/jbwong05/watchping)
 * [yestranslate](https://github.com/jbwong05/yestranslate)
 
