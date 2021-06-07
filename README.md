@@ -16,7 +16,7 @@ Third year Computer Science student at University of California, San Diego inter
 
 <a href="https://github.com/jbwong05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbwong05&show_icons=true&theme=tokyonight&count_private=true" alt="jbwong05's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbwong05&theme=tokyonight&layout=compact&count_private=true" alt="jbwong05's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbwong05&theme=tokyonight&layout=compact&count_private=false" alt="jbwong05's github top languages" />
 </a>
 
 <!--
