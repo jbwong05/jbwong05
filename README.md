@@ -5,6 +5,7 @@ UX/UI Developer at Purposer and fourth year Computer Science student at Universi
 * [YIP](https://gitlab.com/cse110-sp20/yip)
 * [FlyerScanner](https://github.com/hexalellogram/FlyerScanner)
 * [obs-text-slideshow](https://github.com/jbwong05/obs-text-slideshow)
+* [obs-pulseaudio-app-capture](https://github.com/jbwong05/obs-pulseaudio-app-capture)
 * [Albert Launcher](https://github.com/albertlauncher/albert) Plugins
   * [Albert Extra KDE Settings](https://github.com/jbwong05/Albert-Extra-KDE-Settings)
   * [Albert X Window Switcher](https://github.com/jbwong05/Albert-X-Window-Switcher)
