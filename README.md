@@ -18,7 +18,7 @@ UX/UI Developer at Purposer and fourth year Computer Science student at Universi
 
 <a href="https://github.com/jbwong05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbwong05&show_icons=true&theme=tokyonight&count_private=true" alt="jbwong05's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbwong05&theme=tokyonight&layout=compact&count_private=true&exclude_repo=CSE151B-kaggle" alt="jbwong05's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbwong05&theme=tokyonight&layout=compact&count_private=true&exclude_repo=CSE151B-kaggle&exclude_repo=cse160-WI22" alt="jbwong05's github top languages" />
 </a>
 
 <!--
