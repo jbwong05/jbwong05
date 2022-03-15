@@ -1,5 +1,5 @@
 ### About me
-UX/UI Developer at Purposer and fourth year Computer Science student at University of California, San Diego and Linux enthusiast interested in software engineering, backend application development, web development, and embedded system programming.
+Incoming Software Engineer I at Life360 and Linux enthusiast interested in software engineering, backend application development, web development, and embedded system programming.
 
 ### Projects
 * [YIP](https://gitlab.com/cse110-sp20/yip)
